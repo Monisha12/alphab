@@ -8,7 +8,7 @@ Scanner s=new Scanner(System.in);
 char ip=s.next().charAt(0);
 if(ip=='a' || ip=='e' ||ip=='i'||ip=='o'||ip=='u')
 {
-System.out.println("character is alphabet");
+System.out.println("character is vowel");
 }
 else 
 {
